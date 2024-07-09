@@ -1,0 +1,19 @@
+{
+  "gitSyncId": "668d1abf146bc02cf14740cd_29c697fa-1adb-4a3e-bcda-6141cdc3fe26",
+  "id": "Page1_QueryModule11",
+  "moduleUUID": "afef61d8-42f3-4642-a0fd-f818c73d0a68",
+  "packageUUID": "32816884-d11e-43e2-a974-1618618e09fa",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "1"
+    },
+    "moduleInputs": {
+      "hkcctsqkcw": {}
+    },
+    "name": "QueryModule11",
+    "pageId": "Page1",
+    "version": "0.0.6"
+  }
+}
