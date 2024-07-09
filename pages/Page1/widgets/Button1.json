@@ -47,7 +47,7 @@
     "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
     "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
   },
-  "onClick": "{{JSModule11.myFun1(11,1);}}",
+  "onClick": "{{JSModule11.myFun1(Input1.text,Input1Copy.text);}}",
   "parentColumnSpace": 11.890625,
   "parentId": "0",
   "parentRowSpace": 10,
